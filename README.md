@@ -19,3 +19,15 @@
 
 ## Part 2c
 - Inserted **Bootstrap CSS** and **Font Awesome** in the `header.ejs` file
+
+## Part 2d
+- All four pages contain their own **Exoress Route** written in the `index.js` file under the **routes folder**
+
+## Part 2e
+- `footer.ejs` includes links to my GitHub and LinkedIn (I don't have an actual LinkedIn account)
+- Files under **views folder** uses an EJS template
+
+## Links Used are...
+- Bootstrap, Font Awesome
+- My GitHub
+- Provided a LinkedIn url, formatted as if it were to send users to my LinkedIn account, but I don't actually have one.
